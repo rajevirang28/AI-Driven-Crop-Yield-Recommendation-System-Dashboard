@@ -6,7 +6,7 @@ This project is an interactive Power BI dashboard that analyzes Maharashtra agri
 
 ## Dashboard Preview
 
-![Maharashtra Agriculture Dashboard](dashboard.png)
+![Maharashtra Agriculture Dashboard](powerbi/dashboard.png)
 
 ## Features
 
