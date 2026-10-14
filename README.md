@@ -23,11 +23,11 @@ This project is an interactive Power BI dashboard that analyzes Maharashtra agri
 
 ## KPIs
 
-- 🌾 Total Production: 366.32M
-- 💰 Total Revenue: 19.36bn
-- 📈 Total Profit: 16.99bn
-- 🚜 Average Yield: 14.08K
-- ⚠️ Average Risk: 31.06
+- Total Production: 366.32M
+- Total Revenue: 19.36bn
+- Total Profit: 16.99bn
+- Average Yield: 14.08K
+- Average Risk: 31.06
 
 ## Tools Used
 
